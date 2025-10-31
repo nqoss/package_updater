@@ -13,8 +13,8 @@ A Python-based tool for managing Debian package updates and system cleanup. Comb
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/debian-package-updater.git
-cd debian-package-updater
+git clone https://github.com/nqoss/package_updater.git
+cd package_updater
 chmod +x package_updater.py
 ```
 
